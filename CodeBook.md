@@ -1,6 +1,6 @@
 # Getting and Cleaning Data Course Project
 ## This code book describes data, method, logic, variables used to complete this assignment. Main program file is run_analysis.R
-## Out of this program will be a file named "tidy_data.txt"
+## Output of this program is a file named "tidy_data.txt"
 
 ## Data Source
 * Data: [Dataset.zip](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
